@@ -1,0 +1,6 @@
+@media (width < 1024px) {
+  .header_img {
+    width: 97px;
+    height: 55px;
+  }
+}
